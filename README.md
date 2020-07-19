@@ -2,17 +2,23 @@
 
 Projeto Final do curso Desenvolvimento de Aplicativos Android Studio (Kotlin) - Cellep e Estação Hack
 
+
 # SOBRE O DESAFIO
+
 
 Escolher uma das opções abaixo, caso queiram façam mais de uma!
 Façam as telas da maneira que quiserem seguindo as instruções do mínimo pedido para cada projeto!
 Se ficar complicado, simplifiquem, o projeto é de vocês
 
-> Eu decidi escolher meslar as opções "Buscador de Preferências" e "Biscoito da Sorte" em um único App.
+
+> Eu decidi meslar as opções "Buscador de Preferências" e "Biscoito da Sorte" em um único App.
 > Nomeado Sorte do Dia, o App permite o usuário realizar um cadastro e escolher sua cor preferida dentre as opções mostradas.
 > Após o cadastro, o usuário pode ver uma frase motivacional junto com a cor escolhida. 
 
+
+
 ## DESCRIÇÃO DO DESAFIO
+
 
 ### Buscador de Preferências 
 
@@ -38,9 +44,14 @@ PS: O foco do app pode ser escolhido por vocês, pode ser um app motivacional, d
 
 * [Vídeo do emulador](https://vimeo.com/439640596)
 * [APK para Instalação](assets/app-debug.apk)
-* [Link na play store em breve]
+* Link na play store em breve
 
 ![](assets/projetoFinal.png)
 
 
+# AGRADECIMENTOS
+
+Karoy Ogata
+David Laronda
+Cellep e Estação Hack
 
